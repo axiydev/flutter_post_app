@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167688123748",
+    "project_id": "flutterpostapp-ca7d1",
+    "storage_bucket": "flutterpostapp-ca7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167688123748:android:8c2bf3cbca2d1cc429b671",
+        "android_client_info": {
+          "package_name": "com.example.flutter_post_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167688123748-fu9s8uteed0d8bd6jjhps8bt03p4njvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeEcBjPyXm-2qZG2_8x8N8pUhSJZ4LmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167688123748-fu9s8uteed0d8bd6jjhps8bt03p4njvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
